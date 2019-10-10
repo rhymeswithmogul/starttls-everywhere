@@ -1,6 +1,6 @@
 {
-  "timestamp": "2019-10-02T16:08:58.979638-07:00",
-  "expires": "2019-10-16T16:08:58.979659-07:00",
+  "timestamp": "2019-10-10T00:56:52.201423-07:00",
+  "expires": "2019-11-07T00:56:52.201442-07:00",
   "version": "0.1",
   "author": "Electronic Frontier Foundation https://eff.org",
   "policy-aliases": {
@@ -3090,6 +3090,92 @@
       "mode": "testing",
       "mxs": [
         "mx1.vicugna.nl"
+      ]
+    },
+    "ac.mia.ac": {
+      "mode": "testing",
+      "mxs": [
+        "mail.cuddlecat.io"
+      ]
+    },
+    "burzum.ch": {
+      "mode": "testing",
+      "mxs": [
+        "*.burzum.ch"
+      ]
+    },
+    "cuddlecat.io": {
+      "mode": "testing",
+      "mxs": [
+        "mail.cuddlecat.io"
+      ]
+    },
+    "fok.nl": {
+      "mode": "testing",
+      "mxs": [
+        "mailserver.fok.nl"
+      ]
+    },
+    "gauthier.tel": {
+      "mode": "testing",
+      "mxs": [
+        "mail.wjg.dk"
+      ]
+    },
+    "ken.dk": {
+      "mode": "testing",
+      "mxs": [
+        "mail.ken.dk"
+      ]
+    },
+    "molgen.mpg.de": {
+      "mode": "testing",
+      "mxs": [
+        ".mx.srv.dfn.de",
+        ".mx.srv.dfn.de",
+        ".mx.srv.dfn.de"
+      ]
+    },
+    "pebkac.gr": {
+      "mode": "testing",
+      "mxs": [
+        "mail.pebkac.gr"
+      ]
+    },
+    "rehlinger.net": {
+      "mode": "testing",
+      "mxs": [
+        "mail.cuddlecat.io"
+      ]
+    },
+    "shaunc.com": {
+      "mode": "testing",
+      "mxs": [
+        "mailman.shaunc.com"
+      ]
+    },
+    "williamjohngauthier.net": {
+      "mode": "testing",
+      "mxs": [
+        "mail.wjg.dk"
+      ]
+    },
+    "wireprivacy.com": {
+      "mode": "testing",
+      "mxs": [
+        "mail.tutanota.de"
+      ]
+    },
+    "wjg.ca": {
+      "mode": "testing",
+      "mxs": [
+        "mail.wjg.dk"
+      ]
+    },
+    "wjg.dk": {
+      "mode": "testing",
+      "mxs": [
+        "mail.wjg.dk"
       ]
     }
   }
