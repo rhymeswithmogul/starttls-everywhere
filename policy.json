@@ -41,6 +41,12 @@
         "mta6.am0.yahoodns.net",
         "mta7.am0.yahoodns.net"
       ]
+    },
+    "colincogle": {
+      "mode": "testing",
+      "mxs": [
+        "ec2.colincogle.name"
+      ]
     }
   },
   "policies": {
@@ -1483,11 +1489,7 @@
       ]
     },
     "colincogle.name": {
-      "mode": "testing",
-      "mxs": [
-        "ec2.rhymeswithmogul.com",
-        "azure.rhymeswithmogul.com"
-      ]
+      "policy-alias": "colincogle"
     },
     "connordav.is": {
       "mode": "testing",
@@ -1626,11 +1628,7 @@
       ]
     },
     "kc1hbk.com": {
-      "mode": "testing",
-      "mxs": [
-        "ec2.rhymeswithmogul.com",
-        "azure.rhymeswithmogul.com"
-      ]
+      "policy-alias": "colincogle"
     },
     "kimihia.org.nz": {
       "mode": "testing",
@@ -2253,11 +2251,7 @@
       ]
     },
     "rhymeswithmogul.com": {
-      "mode": "testing",
-      "mxs": [
-        "rhymeswithmogul.com",
-        "azure.rhymeswithmogul.com"
-      ]
+      "policy-alias": "colincogle"
     },
     "rogerkunz.ch": {
       "mode": "testing",
@@ -3091,6 +3085,9 @@
       "mxs": [
         "mx1.vicugna.nl"
       ]
+    },
+    "communalconsulting.org": {
+      "policy-alias": "colincogle"
     }
   }
 }
